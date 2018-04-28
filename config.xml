@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="https://discarded-ideas.org/pressplayongear" version="0.1.0" viewmodes="maximized">
+    <tizen:application id="7XS0bNCtDt.PressPlayOnGear8BitWatch" package="7XS0bNCtDt" required_version="2.3.2" ambient_support="disable"/>
+    <author email="wansti@discarded-ideas.org">Wansti</author>
+    <tizen:category name="http://tizen.org/category/wearable_clock"/>
+    <content src="index.html"/>
+    <description>Watch face in the style of various 8-bit systems, based on the AmbientWatch example from the Tizen SDK.
+Color palettes included are C64, NES, GameBoy, Atari 2600  and Apple II.
+The watch face shows time, battery percentage at the top, and the day of month in a binary representation on the bottom.
+Currently in beta.</description>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="icon.png"/>
+    <license>Flora License 1.1</license>
+    <name>Press Play On Gear - 8 Bit Watch</name>
+    <tizen:privilege name="http://tizen.org/privilege/alarm"/>
+    <tizen:profile name="wearable"/>
+    <tizen:setting background-support="disable" encryption="disable" hwkey-event="enable"/>
+</widget>

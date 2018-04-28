@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+#bgcolor {
+	position: absolute;
+	width: 360px;
+	height: 360px;
+	background-color: #0058f8; 
+}
+
+#face {
+	position: absolute;
+	width: 360px;
+	height: 360px;
+	background: url('../image/8bit_face.png');
+    background-size: 360px 360px;
+}
+
+#container {
+    display: -webkit-flex;
+    -webkit-align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+#canvas {
+	position: absolute;
+    width: 360px;
+    height: 360px;
+    margin: auto;
+}

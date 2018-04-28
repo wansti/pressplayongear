@@ -1,0 +1,4 @@
+Watch face in the style of various 8-bit systems, based on the AmbientWatch example from the Tizen SDK.
+Color palettes included are C64, NES, GameBoy, Atari 2600  and Apple II.
+The watch face shows time, battery percentage at the top, and the day of month in a binary representation on the bottom.
+Currently in beta.
